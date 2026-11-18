@@ -4,8 +4,6 @@ A mini System report
 THE DIGITAL DETECTIVE
 This project is to investigate how computer works, practice basic Terminal operations, explore how the operating system manages files and programs, understand how numbers and text are represented, and use GitHub to publish work.
 
-Name: Ishita Roy
-USN: 2392608424
 
 MISSION INDEX:
 1) mission-00-setup
